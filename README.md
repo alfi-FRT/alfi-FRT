@@ -16,5 +16,3 @@ My programming skills include:
 📫 How to reach me: https://www.linkedin.com/in/%C3%A1d%C3%A1m-alf%C3%B6ldi-1153b1222/  
 
 ⚡ Fun fact: I used to play competetive chess and I'm still participating in amateur tournaments. Add me on Lichess if you dare to challenge me😼: https://lichess.org/@/AlfiPlaysChess  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfi-FRT)](https://github.com/anuraghazra/github-readme-stats)
