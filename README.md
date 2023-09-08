@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**alfi-FRT/alfi-FRT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alföldi Ádám, a vehicle engineering student from TU Budapest who's into motorsports. 
 
-Here are some ideas to get you started:
+I’m currently the Vehicle Dynamics and Control group leader at BME Formula Racing team .🏎️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My programming skills include:
+  - MATLAB / Simulink 🔢
+  - C  🅲
+  - a bit of LabView 🧪
+
+💡 My proudest projects are a sliding mode wheelslip control and an optimization based powerlimiter in our Formula Student car. 
+
+🌱 I recently started playing with microcontrollers in my freetime.
+
+📫 How to reach me: https://www.linkedin.com/in/%C3%A1d%C3%A1m-alf%C3%B6ldi-1153b1222/  
+
+⚡ Fun fact: I used to play competetive chess and I'm still participating in amateur tournaments. Add me on Lichess if you dare to challenge me😼: https://lichess.org/@/AlfiPlaysChess  
