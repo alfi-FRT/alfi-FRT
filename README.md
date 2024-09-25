@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-I'm Alföldi Ádám, a vehicle engineering student from TU Budapest who's into motorsports. 
+I'm Alföldi Ádám, a vehicle engineering masters student from FH Joanneum who's into motorsports and vehicle control. 
 
-I’m currently the Vehicle Dynamics and Control group leader at BME Formula Racing team .🏎️
+I was Vehicle Dynamics and Control group leader at BME Formula Racing team in the season 2023-2024.🏎️ 
 
 My programming skills include:
   - MATLAB / Simulink 🔢
+  - Python 🐍
   - C  🅲
   - a bit of LabView 🧪
 
