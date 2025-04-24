@@ -2,7 +2,7 @@
 
 I'm Alföldi Ádám, a vehicle engineering masters student from FH Joanneum who's into motorsports and vehicle control. 
 
-I was Vehicle Dynamics and Control group leader at BME Formula Racing team in the season 2023-2024.🏎️ 
+I was Vehicle Dynamics and Control group leader at BME Formula Racing team in the season 2023-2024, currently developing the vehicle control unit at Joanneum Racing Graz.🏎️ 
 
 My programming skills include:
   - MATLAB / Simulink 🔢
@@ -14,4 +14,4 @@ My programming skills include:
 
 📫 How to reach me: https://www.linkedin.com/in/%C3%A1d%C3%A1m-alf%C3%B6ldi-1153b1222/  
 
-⚡ Fun fact: I used to play competetive chess and I'm still participating in amateur tournaments. Add me on Lichess if you dare to challenge me😼: https://lichess.org/@/AlfiPlaysChess  
+⚡ Fun fact: I used to play competetive chess and still participate in amateur tournaments. Add me on Lichess if you dare to challenge me😼: https://lichess.org/@/AlfiPlaysChess  
